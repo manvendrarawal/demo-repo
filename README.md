@@ -2,4 +2,4 @@
 This is a readme file.
 
 
-Doing the second commit 
+Removing the last commit and update it
